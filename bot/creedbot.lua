@@ -455,7 +455,7 @@ Says every thing he knows about a group
 Changes or Makes new group link
 لینک گروه رو عوض میکنه 
 
-!getlink
+!link
 gets The Group link
 لینک گروه را در گروه نمایش میده
 
@@ -535,7 +535,7 @@ To tags the every one and sends your message at bottom
 More plugins  soon ...
 ⚠️ We are Creeds ⚠️
 
-our channel : @creedantispam_channel
+our channel : @extremerobos
 کانال ما
 
 You Can user both "!" & "/" for them
