@@ -209,7 +209,7 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
-    ".",
+    "pmpv",
     "Feedback",
     "plugins",
     "lock_join",
@@ -249,8 +249,8 @@ function create_config( )
      
 
    〰〰〰〰〰〰〰〰
-   ߔࠀ   our admins are : 
-   ߔࠀ   @rm13790115   〰〰〰〰〰〰〰〰
+   ߔࠀ   sudo:::
+   ߔࠀ   @unkownhacker
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
    !feedback (your ideas and messages)
